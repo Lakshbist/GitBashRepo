@@ -66,6 +66,8 @@ public class BitwiseOperator {
         int c = a ^ b; // The result in binary form is 1101
         System.out.println(c); // Hence the result will be 13
 
+        System.out.println(" Practicing git");
+
     }
 
 }
