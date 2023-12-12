@@ -105,5 +105,7 @@ class IsEmpty {
         String str2 = str.trim();
         System.out.println(str2.isEmpty());
 
+        System.out.println("Git practice");
+
     }
 }
